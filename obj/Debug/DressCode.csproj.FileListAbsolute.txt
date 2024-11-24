@@ -1,0 +1,13 @@
+C:\Users\dserd\source\repos\DressCode\bin\Debug\DressCode.exe.config
+C:\Users\dserd\source\repos\DressCode\bin\Debug\DressCode.exe
+C:\Users\dserd\source\repos\DressCode\bin\Debug\DressCode.pdb
+C:\Users\dserd\source\repos\DressCode\bin\Debug\Guna.UI2.dll
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.csproj.AssemblyReference.cache
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.InputForm.resources
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.forms.Login.resources
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.Properties.Resources.resources
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.csproj.GenerateResource.cache
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.csproj.CoreCompileInputs.cache
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.csproj.Up2Date
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.exe
+C:\Users\dserd\source\repos\DressCode\obj\Debug\DressCode.pdb
